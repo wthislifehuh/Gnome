@@ -1,16 +1,13 @@
 # Gnome
 
-A new Flutter project.
+The project titled Gnome is an intelligent agricultural system that detects abnormal conditions in real-time by leveraging federated learning approach and employs predictive modelling to determine risk scores for current crop conditions, thus ensuring optimal crop health while preserving data privacy.
+
 
 ## Introduction
 
-Full project: The project titled Gnome is an intelligent agricultural system that detects abnormal conditions in real-time by leveraging federated learning approach and employs predictive modelling to determine risk scores for current crop conditions, thus ensuring optimal crop health while preserving data privacy.
-
-
 *This respository only store Flutter code.*
 
-
-
+\n\n
 
 **Unlock the Power of Intelligent Farming**
 
