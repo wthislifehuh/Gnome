@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743016959503",
+    "project_id": "gnome-f587f",
+    "storage_bucket": "gnome-f587f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743016959503:android:7d896843ce5cce80459d7a",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743016959503-1cnn009do6r5c7v40397onggjv84ctpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCub2dGkgFYYN9IEnxbuJbhfTTd2wF8gWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743016959503-1cnn009do6r5c7v40397onggjv84ctpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
