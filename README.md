@@ -7,7 +7,7 @@ The project titled Gnome is an intelligent agricultural system that detects abno
 
 *This respository only store Flutter code.*
 
-\n\n
+
 
 **Unlock the Power of Intelligent Farming**
 
