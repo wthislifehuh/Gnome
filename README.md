@@ -1,16 +1,23 @@
-# first_app
+# Gnome
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Full project: The project titled Gnome is an intelligent agricultural system that detects abnormal conditions in real-time by leveraging federated learning approach and employs predictive modelling to determine risk scores for current crop conditions, thus ensuring optimal crop health while preserving data privacy.
 
-A few resources to get you started if this is your first Flutter project:
+*This respository only store Flutter code.*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Unlock the Power of Intelligent Farming**
+Gnome is an intelligent farming analysis and alert system that aims to enhance agriculture data-driven decision-making by providing real time and forecast insights in farming
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Stay Ahead of the Game**
+Leveraging IoT, AI, and Cloud Computing, Gnome can detect potential issues and generate alerts before major problems arise, thus enabling you to take proactive actions and decisions in response to the problems.
+
+**Farming Insights**
+Gnome provides weather forecasts, disease forecasts, news and farming tips to keep users informed and updated about the latest trends, advancements, and best practices in agriculture.
+
+**Get connected**
+Gnome fosters a sense of community among farmers, enabling enhanced collaboration and sharing of knowledge and experiences.
+
+
