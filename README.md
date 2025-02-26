@@ -2,6 +2,11 @@
 
 The project titled Gnome is an intelligent agricultural system that detects abnormal conditions in real-time by leveraging federated learning approach and employs predictive modelling to determine risk scores for current crop conditions, thus ensuring optimal crop health while preserving data privacy.
 
+## Showcase
+![Project Screenshot](https://github.com/wthislifehuh/Gnome/blob/main/images/Gnome_dashboard.jpg?raw=true)
+
+![Project Screenshot](https://github.com/wthislifehuh/Gnome/blob/main/images/weather-sensor-data.jpg?raw=true)
+
 
 ## Introduction
 
